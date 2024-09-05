@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Matthew MacEachern
 
-- 🌱 I'm currently studying Software Engineering at Queens University.
-- 💬 I'm based out of Toronto, ON.
-- 📫 I've had recent work experience in AI Engineering and Full-Stack Software Engineering.
+- 🌱 I'm graduated from Software Engineering at Queens University.
+- 💬 I'm based out of San Francisco, CA.
+- 📫 I'm currently working at Pivotal Life Sciences as a Jr. Full Stack Software Engineer.
 - ⚡ I am always interested in building cool projects with cool people!
