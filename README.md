@@ -3,7 +3,7 @@
 [My Website!](https://matthewmaceachern.netlify.app/)
 
 - 🌱 I'm graduated from Software Engineering at Queens University.
-- 📫 I'm currently working at @Shopify as a Software Engineer
+- 📫 I'm currently working at Shopify as a Software Engineer
   <img
     width="25"
     height="25"
